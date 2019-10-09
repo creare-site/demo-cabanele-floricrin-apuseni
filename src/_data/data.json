@@ -1,0 +1,29 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "florin.rosu84@yahoo.com",
+    "phone"          : "0748555893",
+    "address"        : "Str. Principala, nr. 329A - sat Copcea Marisel, Cluj.",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Cabanele Flori & Crin",
+    "app_subtitle"   : "Locul ideal pentru a-ti petrece timpul liber alaturi de cei dragi.",
+
+    "seo_title"      : "Cabanele Flori & Crin - Cazare Apuseni | WebsiteMarket",
+    "seo_desc"       : "Locul ideal pentru a-ti petrece timpul liber alaturi de cei dragi.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/creare-site/pensiuni/cabanele-floricrin-apuseni/", 
+    "github"         : "https://github.com/creare-site/demo-cabanele-floricrin-apuseni/",
+    "github_group"   : "https://github.com/creare-site/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Cabanele-FloriCrin-Marisel-1487366034823133/",
+    "youtube"        : "https://www.youtube.com/watch?v=XXX",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}
